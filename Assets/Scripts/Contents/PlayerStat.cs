@@ -11,6 +11,7 @@ public class PlayerStat : Stat
 
     public int Exp 
     {
+
         get { return _exp; } 
         set 
         { 
