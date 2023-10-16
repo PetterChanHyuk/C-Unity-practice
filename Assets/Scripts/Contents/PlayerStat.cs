@@ -8,7 +8,6 @@ public class PlayerStat : Stat
     protected int _exp;
     [SerializeField]
     protected int _gold;
-
     public int Exp 
     {
 
